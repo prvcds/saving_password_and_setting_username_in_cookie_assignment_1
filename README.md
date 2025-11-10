@@ -1,4 +1,4 @@
-# Lab Exercise: Using Cookie increase the Count
+
 
 ## 🎯 Objectives
 
@@ -21,6 +21,5 @@
 
 5. **Display the Count**: Show the updated count on the webpage.
 
-## 🏁 Outcome
 
-- Mastery in using cookies to track and update a user-specific count in a web application. 🍪🔢🚀
+
