@@ -5,9 +5,6 @@
 - Understand how to manipulate cookies in web development to track and update a count.
 - Learn to implement client-side logic to increase a cookie-based count with each user interaction.
 
-## 🛠 Prerequisites
-
-- Basic knowledge of HTML, JavaScript, and web development concepts.
 
 ## 📝 Steps
 
@@ -20,6 +17,7 @@
 4. **Update the Cookie**: After incrementing, update the cookie with the new count value.
 
 5. **Display the Count**: Show the updated count on the webpage.
+
 
 
 
